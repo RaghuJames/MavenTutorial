@@ -1,7 +1,7 @@
 <html>
 	<body>
 		<div>
-			login
+			login New
 		</div>
 	</body>
 </html>
